@@ -7,3 +7,11 @@ body {
 img {
     width: 400px;
 }
+.gallery1{
+display:flex;
+    justify-content: center;
+}
+
+.gallery2{
+display:flex;
+}
